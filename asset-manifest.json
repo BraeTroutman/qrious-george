@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/qrious-george/static/css/main.f855e6bc.css",
-    "main.js": "/qrious-george/static/js/main.0be69a9c.js",
+    "main.css": "/qrious-george/static/css/main.bb5a56f3.css",
+    "main.js": "/qrious-george/static/js/main.02b68299.js",
     "static/js/592.a2d7c12e.chunk.js": "/qrious-george/static/js/592.a2d7c12e.chunk.js",
-    "static/media/logo.svg": "/qrious-george/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/RedHatDisplayVF-Italic.woff2": "/qrious-george/static/media/RedHatDisplayVF-Italic.813182e673c38ef5ee4b.woff2",
+    "static/media/RedHatTextVF-Italic.woff2": "/qrious-george/static/media/RedHatTextVF-Italic.078865af129336cde269.woff2",
+    "static/media/RedHatDisplayVF.woff2": "/qrious-george/static/media/RedHatDisplayVF.18ca482120faaa701d8b.woff2",
+    "static/media/RedHatTextVF.woff2": "/qrious-george/static/media/RedHatTextVF.c33624692c8b41e36780.woff2",
+    "static/media/RedHatMono-Italic.woff2": "/qrious-george/static/media/RedHatMono-Italic.841cdd0ebb3d9038a7e7.woff2",
+    "static/media/RedHatMonoVF-Italic.woff2": "/qrious-george/static/media/RedHatMonoVF-Italic.6e3027616d8de472723c.woff2",
+    "static/media/RedHatMonoVF.woff2": "/qrious-george/static/media/RedHatMonoVF.e4faf134e53e0f37296b.woff2",
+    "static/media/RedHatText-MediumItalic.woff2": "/qrious-george/static/media/RedHatText-MediumItalic.e0f30d27bec7c8dbb6fc.woff2",
+    "static/media/RedHatDisplay-BoldItalic.woff2": "/qrious-george/static/media/RedHatDisplay-BoldItalic.b01a8365f7214919a9c3.woff2",
+    "static/media/RedHatDisplay-MediumItalic.woff2": "/qrious-george/static/media/RedHatDisplay-MediumItalic.ed292ec87cce0d76fd3c.woff2",
+    "static/media/RedHatText-Italic.woff2": "/qrious-george/static/media/RedHatText-Italic.aa07940756a803076b34.woff2",
+    "static/media/RedHatText-Medium.woff2": "/qrious-george/static/media/RedHatText-Medium.9c02e9a1e10fbc86466d.woff2",
+    "static/media/RedHatDisplay-Medium.woff2": "/qrious-george/static/media/RedHatDisplay-Medium.66ac08a9a7d29ae51581.woff2",
+    "static/media/RedHatDisplay-Bold.woff2": "/qrious-george/static/media/RedHatDisplay-Bold.d8d66dd2281610675aca.woff2",
+    "static/media/RedHatText-Regular.woff2": "/qrious-george/static/media/RedHatText-Regular.b36d694117bf12672d49.woff2",
+    "static/media/RedHatMono-Regular.woff2": "/qrious-george/static/media/RedHatMono-Regular.57234ce675330fa60781.woff2",
+    "static/media/pf-v5-pficon.woff2": "/qrious-george/static/media/pf-v5-pficon.c06f4d6490c387fd1d92.woff2",
     "index.html": "/qrious-george/index.html",
-    "main.f855e6bc.css.map": "/qrious-george/static/css/main.f855e6bc.css.map",
-    "main.0be69a9c.js.map": "/qrious-george/static/js/main.0be69a9c.js.map",
+    "main.bb5a56f3.css.map": "/qrious-george/static/css/main.bb5a56f3.css.map",
+    "main.02b68299.js.map": "/qrious-george/static/js/main.02b68299.js.map",
     "592.a2d7c12e.chunk.js.map": "/qrious-george/static/js/592.a2d7c12e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0be69a9c.js"
+    "static/css/main.bb5a56f3.css",
+    "static/js/main.02b68299.js"
   ]
 }
